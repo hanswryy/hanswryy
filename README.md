@@ -1,7 +1,7 @@
 ## bujank here,
 jarang bikin proyek, seringnya main cs (counter strike, bukan computer science).
 
-kinda interested in ctf, would try to do write-up daily
+kinda interested in ctf, would try to do write-up daily.
 
 [![bujank's stats](https://github-readme-stats.vercel.app/api?username=hanswryy)](https://github.com/anuraghazra/github-readme-stats)
 <!--
