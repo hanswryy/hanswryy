@@ -1,5 +1,5 @@
 ## bujank here,
-I dont know I have no interest, just doing some random projects.
+Highly interested in game development.
 
 [![My GitHub stats](https://github-stats-extended.vercel.app/api?username=hanswryy)](https://github.com/stats-organization/github-stats-extended)
 <!--
